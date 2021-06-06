@@ -2,4 +2,6 @@
 - simple design
 - responsive all device
 - simple pure css
-- without javascript
+- only html and css
+
+you can view the demo on https://hendikaseptio.github.io/login-v.1.0/
