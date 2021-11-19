@@ -4,4 +4,4 @@
 - simple and pure css
 - only html and css
 
-you can view the demo on https://hendikaseptio.github.io/login-v.1.0/
+you can view the demo on https://hendikaseptio.github.io/simple-login-page/
